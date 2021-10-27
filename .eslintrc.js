@@ -28,5 +28,6 @@ module.exports = {
         "quotes": ["warn", "double", { "avoidEscape": true, "allowTemplateLiterals": true }],
         "require-await": "warn",
         "semi": "warn",
+        "spaced-coment": "warn",
     },
 };
